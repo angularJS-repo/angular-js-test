@@ -1,0 +1,23 @@
+{
+  "name": "angular-js-test",
+  "version": "1.0.0",
+  "description": "Package JSON file",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurikulkarni14/angular-js-test.git"
+  },
+  "author": "MK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayurikulkarni14/angular-js-test/issues"
+  },
+  "homepage": "https://github.com/mayurikulkarni14/angular-js-test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
